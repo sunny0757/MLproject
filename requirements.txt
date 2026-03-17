@@ -1,3 +1,10 @@
 pandas
 numpy
--e .
+seaborn
+datetime
+ipykernel
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .
